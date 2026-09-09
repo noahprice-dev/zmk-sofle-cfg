@@ -106,7 +106,6 @@
             >;
 
             display-name = "LAYER2";
-            sensor-bindings = <&none>;
         };
 
         INDEX {
@@ -119,7 +118,6 @@
             >;
 
             display-name = "INDEX";
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
         };
 
         layer_4 {
@@ -132,7 +130,6 @@
             >;
 
             display-name = "LAYER4";
-            sensor-bindings = <&none>;
         };
     };
 };
