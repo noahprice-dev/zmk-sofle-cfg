@@ -115,9 +115,9 @@ layers:
   - RGB BRI
   - RGB BRD
   - Ins
-  - F11
   - F12
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '{'
+  - '}'
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -201,7 +201,7 @@ layers:
   - {t: LAYER1, h: toggle}
   - {t: LAYER2, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: LAYER0, h: toggle}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
